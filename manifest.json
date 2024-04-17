@@ -11,5 +11,8 @@
       "matches": ["https://checkout.stripe.com/*"],
       "js": ["content.js"]
     }
+  ],
+  "icons": [
+    "stripe_form_filler.png"
   ]
 }
