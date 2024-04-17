@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Stripe Form Filler",
   "version": "1.0",
   "description": "Automatically fill-in test data to Stripe checkout forms",
