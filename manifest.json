@@ -12,7 +12,7 @@
       "js": ["content.js"]
     }
   ],
-  "icons": [
-    "stripe_form_filler.png"
-  ]
+  "icons": {
+    "48": "stripe_form_filler.png"
+  }
 }
